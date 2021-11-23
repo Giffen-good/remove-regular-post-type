@@ -1,0 +1,1 @@
+# remove-regular-post-type
